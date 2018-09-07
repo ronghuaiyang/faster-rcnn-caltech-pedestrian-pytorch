@@ -18,9 +18,9 @@ This implement is based on [jwyang/faster-rcnn.pytorch](https://github.com/jwyan
 * use [CasiaFan/Dataset_to_VOC_converter](https://github.com/CasiaFan/Dataset_to_VOC_converter) to create training data
 
 * build modules
-cd $FRCN_ROOT/lib
+
 ```Shell
-cd $lib
+cd lib
 sh make.sh
 ```
 
