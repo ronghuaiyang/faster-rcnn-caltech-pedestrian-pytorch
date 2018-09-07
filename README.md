@@ -1,6 +1,6 @@
 # A *Faster* Pytorch Implementation for Caltech Pedestrian dataset
 
-This implement is based on [jwyang/faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch). I make some changes to adapt the pedestrian detection.
+This implement is based on [jwyang/faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch). I make some changes to adapt the pedestrian detection. The Pytorch version is 4.0.
 
 ## References
 
